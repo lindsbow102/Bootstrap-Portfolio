@@ -1,0 +1,70 @@
+body {
+    width: 960 px;
+    background: url("images/concrete_background.jpg");
+    margin-bottom: 10%;
+}
+
+h1 {
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    color: white;
+    background-color: #4aaaa5;
+    padding: 20px;
+    margin: 0;
+}
+
+a{
+    font-size: 20px;
+    margin-top: 15px;
+}
+
+.div1 {
+    background-color: white;
+    margin-bottom: 20px;
+}
+
+h2 {
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    color: #4aaaa5;
+    font-weight: bold;
+}
+
+h3 {
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    color: #4aaaa5; 
+    font-size: 24px;
+    text-align: center;
+    font-weight: bold; 
+}
+
+p {
+    color: #777;
+    float:left;
+    line-height: 1.5;
+}
+
+panel {
+    margin-bottom: 50px;
+}
+
+.social {
+    height: 50px;
+    width: 50px;
+}
+footer {
+    color: white;
+    background-color: #505050;
+    text-align: center;
+    margin-bottom: -20px;
+    float: bottom;
+}
+
+/* contact form */
+#submit {
+    margin-bottom: 10px;
+}
+
+/* portfolio stock photos */
+.thumbnail {
+    width: 60%;
+    height: 45%;
+}
